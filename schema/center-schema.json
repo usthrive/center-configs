@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Center Configuration",
+  "type": "object",
+  "required": ["code", "name", "domain", "features", "status"],
+  "properties": {
+    "code": {
+      "type": "string",
+      "description": "Unique identifier for the center"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name of the center"
+    },
+    "domain": {
+      "type": "string",
+      "description": "Domain where this center is hosted"
+    },
+    "features": {
+      "type": "object",
+      "properties": {
+        "keyTakeaways": { "type": "boolean" },
+        "summaryVideo": { "type": "boolean" },
+        "fullVideo": { "type": "boolean" },
+        "detailedNotes": { "type": "boolean" },
+        "activity": { "type": "boolean" }
+      }
+    },
+    "admins": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of administrator email addresses"
+    },
+    "sheetId": {
+      "type": "string",
+      "description": "Google Sheets ID if applicable"
+    },
+    "theme": {
+      "type": "object",
+      "properties": {
+        "primary": { 
+          "type": "string",
+          "description": "Primary theme color in hex format (e.g. #0d6efd)"
+        },
+        "secondary": { 
+          "type": "string",
+          "description": "Secondary theme color in hex format (e.g. #6c757d)"
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "inactive"],
+      "description": "Whether this center is currently active"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When this configuration was last updated"
+    }
+  }
+}
