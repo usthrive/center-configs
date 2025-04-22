@@ -1,9 +1,0 @@
-{
-  "is_active": false,
-  "message": "Please contact your Penta University Administrator",
-  "theme": {
-    "background": "#1A1F2C",
-    "text": "#FFFFFF",
-    "accent": "#D6BCFA"
-  }
-}
