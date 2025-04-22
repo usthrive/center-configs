@@ -1,16 +1,9 @@
 {
-  "key_takeaways": true,
-  "summary_video": true,
-  "full_video": true,
-  "detailed_notes": true,
-  "activity": true,
-  "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/ZNJ21-1745250329594.jpg",
-  "is_active": true,
-  "colors": {
-    "primary": "#1EAEDB",
-    "secondary": "#8E9196",
-    "background": "#FFFFFF",
-    "foreground": "#222222",
-    "accent": "#33C3F0"
+  "is_active": false,
+  "message": "Please contact your Penta University Administrator",
+  "theme": {
+    "background": "#1A1F2C",
+    "text": "#FFFFFF",
+    "accent": "#D6BCFA"
   }
 }
