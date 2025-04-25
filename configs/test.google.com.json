@@ -1,0 +1,18 @@
+{
+  "key_takeaways": true,
+  "summary_video": true,
+  "full_video": true,
+  "detailed_notes": true,
+  "activity": false,
+  "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/test-1745592458520.jpg",
+  "is_active": true,
+  "status": "active",
+  "colors": {
+    "primary": "#1EAEDB",
+    "secondary": "#8E9196",
+    "background": "#FFFFFF",
+    "foreground": "#222222",
+    "accent": "#33C3F0"
+  },
+  "message": "Welcome to test center"
+}
