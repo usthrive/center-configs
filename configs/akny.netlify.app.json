@@ -1,4 +1,7 @@
 {
+  "_debug_version": "v3-with-fields",
+  "name": "Al Khoei - New York",
+  "domain": "akny.netlify.app",
   "key_takeaways": true,
   "summary_video": true,
   "full_video": true,
@@ -7,6 +10,7 @@
   "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/AK-1745342400880.jpg",
   "is_active": true,
   "status": "active",
+  "google_sheet_id": "https://docs.google.com/spreadsheets/d/17a6XGmRZfzqiGMWvlJvvqHz-NEKUiDCJIEBQWCnUaFo/edit?usp=sharing",
   "colors": {
     "primary": "#1e44dc",
     "secondary": "#a5731d",
