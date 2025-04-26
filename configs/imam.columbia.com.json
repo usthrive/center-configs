@@ -1,0 +1,22 @@
+{
+  "_debug_version": "v3-with-fields",
+  "name": "imam hussain center",
+  "domain": "imam.columbia.com",
+  "key_takeaways": true,
+  "summary_video": true,
+  "full_video": true,
+  "detailed_notes": true,
+  "activity": false,
+  "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/wd1-1745711037975.png",
+  "is_active": true,
+  "status": "active",
+  "google_sheet_id": "https://docs.google.com/spreadsheets/d/1QG4gts3BHd8dypmxuMiybIhsl8wq_jqjMDfqgZoeaqc/edit?gid=0#gid=0",
+  "colors": {
+    "primary": "#1EAEDB",
+    "secondary": "#8E9196",
+    "background": "#FFFFFF",
+    "foreground": "#222222",
+    "accent": "#33C3F0"
+  },
+  "message": "Welcome to imam hussain center"
+}
