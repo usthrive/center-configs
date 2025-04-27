@@ -12,8 +12,8 @@
   "status": "active",
   "google_sheet_id": "https://docs.google.com/spreadsheets/d/17a6XGmRZfzqiGMWvlJvvqHz-NEKUiDCJIEBQWCnUaFo/edit?usp=sharing",
   "colors": {
-    "primary": "#1e44dc",
-    "secondary": "#a5731d",
+    "primary": "#33C3F0",
+    "secondary": "#888888",
     "background": "#FFFFFF",
     "foreground": "#222222",
     "accent": "#33C3F0"
