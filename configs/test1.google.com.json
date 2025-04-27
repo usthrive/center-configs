@@ -21,10 +21,7 @@
   "about_us_enabled": true,
   "support_enabled": true,
   "about_us_content": {
-    "intro": "this is amazing",
-    "vision": "....",
-    "mission": "....",
-    "approach": "Why Not?",
+    "intro": "Welcome to Majlis Center 1",
     "developer_callout": "---\n    **Developed By:** This tool is enabled by Penta AI Solutions and Penta University, and was first deployed at the regional center. We are thankful for the opportunity to enable the furtherance of the mission of the household of the Prophet and to expand the message to all centers. The goal of Penta AI Solutions and Penta University is to bring AI capabilities by creating tools that can be utilized by the broader humanity and have them align with the teachings of holy Prophet Mohammed (SAW) and his holy household. Please consider supporting these organizations."
   },
   "support_options": {
