@@ -1,0 +1,36 @@
+{
+  "_debug_version": "v3-with-fields",
+  "name": "Majlis Center",
+  "domain": "test1.google.com",
+  "key_takeaways": true,
+  "summary_video": true,
+  "full_video": true,
+  "detailed_notes": true,
+  "activity": false,
+  "logo_url": "",
+  "is_active": true,
+  "status": "active",
+  "google_sheet_id": "https://docs.google.com/spreadsheets/d/1QG4gts3BHd8dypmxuMiybIhsl8wq_jqjMDfqgZoeaqc/edit?gid=0#gid=0",
+  "colors": {
+    "primary": "#1EAEDB",
+    "secondary": "#8E9196",
+    "background": "#FFFFFF",
+    "foreground": "#222222",
+    "accent": "#33C3F0"
+  },
+  "about_us_enabled": true,
+  "support_enabled": true,
+  "about_us_content": {
+    "intro": "this is amazing",
+    "vision": "....",
+    "mission": "....",
+    "approach": "Why Not?",
+    "developer_callout": "---\n    **Developed By:** This tool is enabled by Penta AI Solutions and Penta University, and was first deployed at the regional center. We are thankful for the opportunity to enable the furtherance of the mission of the household of the Prophet and to expand the message to all centers. The goal of Penta AI Solutions and Penta University is to bring AI capabilities by creating tools that can be utilized by the broader humanity and have them align with the teachings of holy Prophet Mohammed (SAW) and his holy household. Please consider supporting these organizations."
+  },
+  "support_options": {
+    "zelle": {
+      "email": "send to us @gmail.com"
+    }
+  },
+  "message": "Welcome to Majlis Center"
+}
