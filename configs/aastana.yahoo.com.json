@@ -18,5 +18,9 @@
     "foreground": "#1a1919",
     "accent": "#33C3F0"
   },
+  "about_us_enabled": false,
+  "support_enabled": false,
+  "about_us_content": null,
+  "support_options": null,
   "message": "Welcome to Aastana"
 }
