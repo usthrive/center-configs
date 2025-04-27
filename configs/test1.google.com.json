@@ -30,6 +30,9 @@
   "support_options": {
     "zelle": {
       "email": "send to us @gmail.com"
+    },
+    "paypal": {
+      "link": "https://www.paypal.com/donate/?hosted_button_id=SJMBMEZBV5D7L"
     }
   },
   "message": "Welcome to Majlis Center"
