@@ -1,0 +1,29 @@
+{
+  "_debug_version": "v3-with-fields",
+  "name": "Al Khoei - New York",
+  "domain": "alkhoei-lectures.netlify.app",
+  "key_takeaways": true,
+  "summary_video": true,
+  "full_video": true,
+  "detailed_notes": true,
+  "activity": false,
+  "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/AK-1745342400880.jpg",
+  "is_active": true,
+  "status": "active",
+  "google_sheet_id": "https://docs.google.com/spreadsheets/d/17a6XGmRZfzqiGMWvlJvvqHz-NEKUiDCJIEBQWCnUaFo/edit?usp=sharing",
+  "colors": {
+    "primary": "#151b70",
+    "secondary": "#6d5218",
+    "background": "#FFFFFF",
+    "foreground": "#222222",
+    "accent": "#33C3F0"
+  },
+  "about_us_enabled": true,
+  "support_enabled": false,
+  "about_us_content": {
+    "intro": "Welcome to the Knowledge Treasure of Al-Khoei - NY",
+    "developer_callout": "---\n    **Developed By:** This tool is enabled by Penta AI Solutions and Penta University, and was first deployed at the regional center. We are thankful for the opportunity to enable the furtherance of the mission of the household of the Prophet and to expand the message to all centers. The goal of Penta AI Solutions and Penta University is to bring AI capabilities by creating tools that can be utilized by the broader humanity and have them align with the teachings of holy Prophet Mohammed (SAW) and his holy household. Please consider supporting these organizations."
+  },
+  "support_options": null,
+  "message": "Welcome to Al Khoei - New York"
+}
