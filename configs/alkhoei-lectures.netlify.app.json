@@ -1,6 +1,6 @@
 {
   "_debug_version": "v3-with-fields",
-  "name": "Al Khoei - New York",
+  "name": "Imam Al-Khoei Islamic Center - New York",
   "domain": "alkhoei-lectures.netlify.app",
   "key_takeaways": true,
   "summary_video": true,
@@ -13,7 +13,7 @@
   "google_sheet_id": "https://docs.google.com/spreadsheets/d/17a6XGmRZfzqiGMWvlJvvqHz-NEKUiDCJIEBQWCnUaFo/edit?usp=sharing",
   "colors": {
     "primary": "#151b70",
-    "secondary": "#6d5218",
+    "secondary": "#e6b241",
     "background": "#FFFFFF",
     "foreground": "#222222",
     "accent": "#33C3F0"
@@ -25,5 +25,5 @@
     "developer_callout": "---\n    **Developed By:** This tool is enabled by Penta AI Solutions and Penta University, and was first deployed at the regional center. We are thankful for the opportunity to enable the furtherance of the mission of the household of the Prophet and to expand the message to all centers. The goal of Penta AI Solutions and Penta University is to bring AI capabilities by creating tools that can be utilized by the broader humanity and have them align with the teachings of holy Prophet Mohammed (SAW) and his holy household. Please consider supporting these organizations."
   },
   "support_options": null,
-  "message": "Welcome to Al Khoei - New York"
+  "message": "Welcome to Imam Al-Khoei Islamic Center - New York"
 }
