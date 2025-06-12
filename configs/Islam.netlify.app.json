@@ -1,0 +1,26 @@
+{
+  "_debug_version": "v3-with-fields",
+  "name": "Center of ISlam",
+  "domain": "Islam.netlify.app",
+  "key_takeaways": true,
+  "summary_video": true,
+  "full_video": true,
+  "detailed_notes": false,
+  "activity": false,
+  "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/test_islam-1749767123406.jpg",
+  "is_active": true,
+  "status": "active",
+  "google_sheet_id": "",
+  "colors": {
+    "primary": "#1EAEDB",
+    "secondary": "#8E9196",
+    "background": "#FFFFFF",
+    "foreground": "#222222",
+    "accent": "#33C3F0"
+  },
+  "about_us_enabled": false,
+  "support_enabled": false,
+  "about_us_content": null,
+  "support_options": null,
+  "message": "Welcome to Center of ISlam"
+}
