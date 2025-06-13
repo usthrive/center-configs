@@ -1,5 +1,5 @@
 {
-  "_debug_version": "v3-with-fields",
+  "_debug_version": "v4-support-meta",
   "name": "Dar-e-Zainab (as)",
   "domain": "https://dez-lectures.netlify.app/",
   "key_takeaways": true,
@@ -14,38 +14,92 @@
   "youtube_channel_url": "https://www.youtube.com/@lightofreflection",
   "google_drive_folder_id": "1kac8S2gd4avjdMNCoNEFblYszI8kv77B",
   "colors": {
-    "primary": "#3891a3",
-    "secondary": "#8E9196",
-    "background": "#FFFFFF",
-    "foreground": "#222222",
+    "primary": "#1e4273",
+    "secondary": "#f5f7fa",
+    "background": "#f8f9fa",
+    "foreground": "#333333",
     "accent": "#33C3F0"
   },
   "about_us_enabled": true,
   "support_enabled": true,
   "about_us_content": {
-    "intro": "Inspired by the unyielding courage of Syeda Zainab AS",
+    "intro": "Welcome to Dar-e-Zainab (as), where we strive to spread the profound teachings and historical narratives of Ahlul Bayt AS.",
     "vision": "Inspired by the unyielding courage of Syeda Zainab AS, Dar-e-Zainab envisions a world where the profound teachings and historical narratives of Ahlul Bayt AS resonate freely, unapologetically, and without the constraints of political correctness. We believe that true change cannot come until a critical mass of humans aligns in the direction of Ahlul Bayt AS with deep maarfah.",
     "mission": "Our mission is to equip the future generation with a robust foundation of knowledge, dispelling misconceptions through open dialogue, and fostering future leaders rooted in the principles of Ahlul Bayt AS. At the heart of our vision is the desire to foster an environment of community that transcends familial ties, creating a framework of fraternal brotherhood where the bond of Wilayah of Ahlul Bayt is cherished as the most profound bond possible.",
-    "approach": "As pioneers in our approach, we aim to create a future where our model had been replicated, emphasizing true maarfah, empowering individuals to lead lives of purpose, strength, and service to the oppressed, all while upholding the full practices of Islam. Our legacy will be one of transformation, laying the groundwork for a movement that prepares hearts and minds for the Hujjah of Allah, ensuring that the message and teachings of Ahlul Bayt AS are accessible to all."
+    "tagline": "Inspired by the unyielding courage of Syeda Zainab AS",
+    "approach": "As pioneers in our approach, we aim to create a future where our model had been replicated, emphasizing true maarfah, empowering individuals to lead lives of purpose, strength, and service to the oppressed, all while upholding the full practices of Islam. Our legacy will be one of transformation, laying the groundwork for a movement that prepares hearts and minds for the Hujjah of Allah, ensuring that the message and teachings of Ahlul Bayt AS are accessible to all.",
+    "sections": [
+      {
+        "id": "vision",
+        "title": "Vision Statement",
+        "content": "Inspired by the unyielding courage of Syeda Zainab AS, Dar-e-Zainab envisions a world where the profound teachings and historical narratives of Ahlul Bayt AS resonate freely, unapologetically, and without the constraints of political correctness. We believe that true change cannot come until a critical mass of humans aligns in the direction of Ahlul Bayt AS with deep maarfah.",
+        "enabled": true,
+        "show_divider": true
+      },
+      {
+        "id": "mission",
+        "title": "Mission Statement",
+        "content": "Our mission is to equip the future generation with a robust foundation of knowledge, dispelling misconceptions through open dialogue, and fostering future leaders rooted in the principles of Ahlul Bayt AS. At the heart of our vision is the desire to foster an environment of community that transcends familial ties, creating a framework of fraternal brotherhood where the bond of Wilayah of Ahlul Bayt is cherished as the most profound bond possible.",
+        "enabled": true,
+        "show_divider": true
+      },
+      {
+        "id": "approach",
+        "title": "Our Approach",
+        "content": "As pioneers in our approach, we aim to create a future where our model had been replicated, emphasizing true maarfah, empowering individuals to lead lives of purpose, strength, and service to the oppressed, all while upholding the full practices of Islam. Our legacy will be one of transformation, laying the groundwork for a movement that prepares hearts and minds for the Hujjah of Allah, ensuring that the message and teachings of Ahlul Bayt AS are accessible to all.",
+        "enabled": true,
+        "show_divider": false
+      }
+    ],
+    "developer_callout": "---\nDeveloped by Penta AI Solutions."
   },
   "support_options": {
-    "bank": {
-      "info": "Bank Transfer\nAccount #: 3810 6924 5211\nRouting #: 021200339"
-    },
     "card": {
       "link": ""
     },
     "zelle": {
-      "email": "zainab.imam.bargah@gmail.com"
+      "name": "Zelle",
+      "note": "",
+      "email": "zainab.imam.bargah@gmail.com",
+      "description": "Scan QR code or use email/phone",
+      "qr_code_url": "",
+      "qr_code_file": {}
     },
     "paypal": {
-      "link": "https://www.paypal.com/donate/?hosted_button_id=SJMBMEZBV5D7L"
+      "link": "https://www.paypal.com/donate/?hosted_button_id=SJMBMEZBV5D7L",
+      "name": "Credit Card & PayPal",
+      "note": "",
+      "description": "Scan QR code or click link to donate",
+      "qr_code_url": "",
+      "qr_code_file": {}
+    },
+    "stripe": {
+      "link": "https://buy.stripe.com/14k2bh9j435fga44gg",
+      "name": "Monthly Support Fellowship",
+      "note": "",
+      "description": "Monthly subscription support",
+      "qr_code_url": "",
+      "qr_code_file": {}
     },
     "monthly": {
       "link": "https://buy.stripe.com/14k2bh9j435fga44gg"
     },
     "in_person": {
       "text": "In Person at Dar-e-Zainab We accept Checks, Cash, or Credit Card"
+    }
+  },
+  "support_title": "Support Our Mission",
+  "support_description": "Help us spread the teachings of Ahlul Bayt AS",
+  "support_intro_title": "How You Can Help",
+  "support_intro_text": "Your generous support enables us to continue our mission of spreading the profound teachings and historical narratives of Ahlul Bayt AS.",
+  "other_donation_methods": {
+    "in_person": {
+      "accepted_methods": "In Person at Dar-e-Zainab We accept Checks, Cash, or Credit Card"
+    },
+    "bank_transfer": {
+      "info": "Bank Transfer\nAccount #: 3810 6924 5211\nRouting #: 021200339",
+      "account_number": "",
+      "routing_number": ""
     }
   },
   "message": "Welcome to Dar-e-Zainab (as)"
