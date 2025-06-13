@@ -62,24 +62,24 @@
       "note": "",
       "email": "zainab.imam.bargah@gmail.com",
       "description": "Scan QR code or use email/phone",
-      "qr_code_url": "",
-      "qr_code_file": {}
+      "qr_code_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-qr-codes/DEZ_zelle_1749852366330.jpg",
+      "qr_code_file": null
     },
     "paypal": {
       "link": "https://www.paypal.com/donate/?hosted_button_id=SJMBMEZBV5D7L",
       "name": "Credit Card & PayPal",
       "note": "",
       "description": "Scan QR code or click link to donate",
-      "qr_code_url": "",
-      "qr_code_file": {}
+      "qr_code_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-qr-codes/DEZ_paypal_1749852366733.PNG",
+      "qr_code_file": null
     },
     "stripe": {
       "link": "https://buy.stripe.com/14k2bh9j435fga44gg",
       "name": "Monthly Support Fellowship",
       "note": "",
       "description": "Monthly subscription support",
-      "qr_code_url": "",
-      "qr_code_file": {}
+      "qr_code_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-qr-codes/DEZ_stripe_1749852367048.JPG",
+      "qr_code_file": null
     },
     "monthly": {
       "link": "https://buy.stripe.com/14k2bh9j435fga44gg"
