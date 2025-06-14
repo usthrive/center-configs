@@ -1,6 +1,6 @@
 {
-  "_debug_version": "v3-with-fields",
-  "name": "test center",
+  "_debug_version": "v4-support-meta",
+  "name": "test center061425",
   "domain": "test.google.com",
   "key_takeaways": true,
   "summary_video": true,
@@ -11,6 +11,8 @@
   "is_active": true,
   "status": "active",
   "google_sheet_id": "https://docs.google.com/spreadsheets/d/17a6XGmRZfzqiGMWvlJvvqHz-NEKUiDCJIEBQWCnUaFo/edit?gid=0#gid=0",
+  "youtube_channel_url": "https://www.youtube.com/@lightofreflection",
+  "google_drive_folder_id": "",
   "colors": {
     "primary": "#1EAEDB",
     "secondary": "#8E9196",
@@ -22,5 +24,10 @@
   "support_enabled": false,
   "about_us_content": null,
   "support_options": null,
-  "message": "Welcome to test center"
+  "support_title": "Support Our Mission",
+  "support_description": "Help us spread the teachings of Ahlul Bayt AS",
+  "support_intro_title": "How You Can Help",
+  "support_intro_text": "Your generous support enables us to continue our mission.",
+  "other_donation_methods": null,
+  "message": "Welcome to test center061425"
 }
