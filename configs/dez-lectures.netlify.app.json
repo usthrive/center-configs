@@ -98,8 +98,8 @@
     },
     "bank_transfer": {
       "info": "",
-      "account_number": "",
-      "routing_number": ""
+      "account_number": "381069245211",
+      "routing_number": "021200339"
     }
   },
   "message": "Welcome to Dar-e-Zainab (as)"
