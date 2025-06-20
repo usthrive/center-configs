@@ -7,7 +7,7 @@
   "full_video": true,
   "detailed_notes": true,
   "activity": false,
-  "video_options_enabled": false,
+  "video_options_enabled": true,
   "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/DEZ-1745520709006.jpg",
   "is_active": true,
   "status": "active",
