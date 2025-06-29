@@ -1,0 +1,36 @@
+{
+  "_debug_version": "v4-support-meta",
+  "name": "Test Center 1",
+  "domain": "testcenter1.dez.edu",
+  "key_takeaways": true,
+  "summary_video": true,
+  "full_video": true,
+  "detailed_notes": true,
+  "activity": false,
+  "video_options_enabled": true,
+  "logo_url": "",
+  "is_active": true,
+  "status": "active",
+  "google_sheet_id": "",
+  "youtube_channel_url": "https://www.youtube.com/channel/UCFJXyuO-3A6oEMBk1CNt9nw",
+  "google_drive_folder_id": "12vahIQEuKKTOw8au0WdTSTT7gPfmsAZR",
+  "colors": {
+    "primary": "#1EAEDB",
+    "secondary": "#8E9196",
+    "background": "#FFFFFF",
+    "foreground": "#222222",
+    "accent": "#33C3F0"
+  },
+  "about_us_enabled": true,
+  "support_enabled": true,
+  "about_us_content": {
+    "intro": "Test",
+    "tagline": "Test"
+  },
+  "support_options": {},
+  "support_title": "Support Our Mission",
+  "support_description": "Help us spread the teachings of Ahlul Bayt AS",
+  "support_intro_title": "How You Can Help",
+  "support_intro_text": "Your generous support enables us to continue our mission. We offer multiple ways for you to contribute to our cause.",
+  "other_donation_methods": null
+}
