@@ -2,6 +2,7 @@
   "_debug_version": "v4-support-meta",
   "name": "Dar-e-Zainab (as)",
   "domain": "https://dez-lectures.netlify.app/",
+  "center_id": "8f325937-a65c-469e-9931-4be380176e62",
   "key_takeaways": true,
   "summary_video": true,
   "full_video": true,
@@ -51,7 +52,8 @@
         "enabled": true,
         "show_divider": false
       }
-    ]
+    ],
+    "developer_callout": "---\n    **Developed By:** This tool is enabled by Penta AI Solutions and Penta University, and was first deployed at the regional center. We are thankful for the opportunity to enable the furtherance of the mission of the household of the Prophet and to expand the message to all centers. The goal of Penta AI Solutions and Penta University is to bring AI capabilities by creating tools that can be utilized by the broader humanity and have them align with the teachings of holy Prophet Mohammed (SAW) and his holy household. Please consider supporting these organizations."
   },
   "support_options": {
     "card": {
@@ -101,5 +103,6 @@
       "account_number": "381069245211",
       "routing_number": "021200339"
     }
-  }
+  },
+  "message": "Welcome to Dar-e-Zainab (as)"
 }
