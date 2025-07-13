@@ -1,0 +1,42 @@
+{
+  "_debug_version": "v4-support-meta",
+  "name": "Idara-e-Jaferia",
+  "domain": "jaferia.org",
+  "center_id": "35ed2619-b5e4-467a-9750-63e415ed3f8d",
+  "key_takeaways": true,
+  "summary_video": true,
+  "full_video": true,
+  "detailed_notes": true,
+  "activity": false,
+  "video_options_enabled": false,
+  "logo_url": "",
+  "is_active": true,
+  "status": "active",
+  "google_sheet_id": "1bvVypGl1O9jkPzWtd4nSk9T9cbtqCxsfmL7pyoWWDoQ",
+  "youtube_channel_url": "https://www.youtube.com/@idara-e-jaferiaofficial3476",
+  "google_drive_folder_id": "1DjatusLydxDVxk5w29qNdLfN4nMDZMbJ",
+  "colors": {
+    "primary": "#0274be",
+    "secondary": "#76a076",
+    "background": "#FFFFFF",
+    "foreground": "#3a3a3a",
+    "accent": "#76a076"
+  },
+  "about_us_enabled": true,
+  "support_enabled": false,
+  "about_us_content": {
+    "intro": "Idara-e-Jaferia is a non-profit, independent organization established to serve the religious and spiritual needs of the Muslim community in the Maryland, Virginia, Washington D.C. area and surrounding regions. Founded by a dedicated group of Muslims who began working on this vision in 1980, we have grown to become a cornerstone of faith, education, and community service in the region.",
+    "vision": "To be a leading Islamic center that nurtures spiritual growth, fosters community unity, and serves as a beacon of Islamic knowledge and values for current and future generations in the greater Washington D.C. metropolitan area.",
+    "mission": "Our mission is to provide comprehensive religious services, Islamic education, and community support to Muslims in Maryland, Virginia, and Washington D.C. We strive to preserve and promote Islamic values, facilitate religious observances, offer educational programs for all ages, and create a welcoming environment where families can practice their faith and build lasting connections within the community.",
+    "tagline": "Serving the Muslim Community of Maryland, Virginia, and Washington D.C. Since 1980",
+    "approach": "At Idara-e-Jaferia, we believe in fostering an inclusive and supportive environment where every member of our community can grow spiritually and socially. Our approach encompasses:\n\n• Providing regular religious programs and prayers\n• Offering comprehensive Islamic education through our school\n• Supporting families during important life events\n• Creating opportunities for community engagement and service\n• Maintaining facilities that serve as a gathering place for worship, learning, and celebration\n• Building bridges of understanding within the broader community\n\nWe are committed to serving with compassion, integrity, and dedication to ensure that every individual and family finds spiritual fulfillment and community support at Idara-e-Jaferia.",
+    "developer_callout": "---\n    **Developed By:** This tool is enabled by Penta AI Solutions and Penta University, and was first deployed at the regional center. We are thankful for the opportunity to enable the furtherance of the mission of the household of the Prophet and to expand the message to all centers. The goal of Penta AI Solutions and Penta University is to bring AI capabilities by creating tools that can be utilized by the broader humanity and have them align with the teachings of holy Prophet Mohammed (SAW) and his holy household. Please consider supporting these organizations."
+  },
+  "support_options": null,
+  "support_title": "Support Our Mission",
+  "support_description": "Help us spread the teachings of Ahlul Bayt AS",
+  "support_intro_title": "How You Can Help",
+  "support_intro_text": "Your generous support enables us to continue our mission. We offer multiple ways for you to contribute to our cause.",
+  "other_donation_methods": null,
+  "message": "Welcome to Idara-e-Jaferia"
+}
