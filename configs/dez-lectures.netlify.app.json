@@ -1,7 +1,7 @@
 {
   "_debug_version": "v4-support-meta",
   "name": "Dar-e-Zainab (as)",
-  "domain": "https://dez-lectures.netlify.app/",
+  "domain": "https://dez-lectures.netlify.app",
   "center_id": "8f325937-a65c-469e-9931-4be380176e62",
   "key_takeaways": true,
   "summary_video": true,
@@ -14,7 +14,7 @@
   "status": "active",
   "google_sheet_id": "https://docs.google.com/spreadsheets/d/1QG4gts3BHd8dypmxuMiybIhsl8wq_jqjMDfqgZoeaqc/edit?gid=0#gid=0",
   "youtube_channel_url": "https://www.youtube.com/@DareZainabAS",
-  "google_drive_folder_id": "1kac8S2gd4avjdMNCoNEFblYszI8kv77B",
+  "google_drive_folder_id": "1Gx7SRIecwxysJUusD10LE8vfWEqZhmcB",
   "colors": {
     "primary": "#1e4273",
     "secondary": "#f5f7fa",
