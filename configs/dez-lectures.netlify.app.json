@@ -137,5 +137,17 @@
       "whatsapp_enabled": false
     }
   },
+  "pwa_icons": {
+    "icon-16.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-16.png",
+    "icon-32.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-32.png",
+    "icon-120.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-120.png",
+    "icon-152.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-152.png",
+    "icon-167.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-167.png",
+    "icon-192.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-192.png",
+    "icon-512.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-512.png",
+    "manifest.json": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/manifest.json",
+    "apple-touch-icon.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/apple-touch-icon.png"
+  },
+  "pwa_manifest_url": null,
   "message": "Welcome to Dar-e-Zainab (as)"
 }
