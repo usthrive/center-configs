@@ -104,17 +104,38 @@
       "routing_number": "021200339"
     }
   },
-  "message": "Welcome to Dar-e-Zainab (as)",
-  "pwa_icons": {
-    "icon-16.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-16.png",
-    "icon-32.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-32.png",
-    "icon-120.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-120.png",
-    "icon-152.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-152.png",
-    "icon-167.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-167.png",
-    "icon-192.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-192.png",
-    "icon-512.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/icon-512.png",
-    "manifest.json": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/manifest.json",
-    "apple-touch-icon.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/apple-touch-icon.png"
+  "community_portal_enabled": true,
+  "community_features": {
+    "qa": {
+      "enabled": false,
+      "allow_voting": true,
+      "allow_anonymous": true,
+      "require_moderation": true,
+      "allow_audio_answers": false,
+      "auto_approve_trusted_users": false
+    },
+    "calendar": {
+      "enabled": false,
+      "sync_ical": false,
+      "default_timezone": "America/New_York",
+      "allow_registration": true,
+      "sync_google_calendar": false,
+      "show_past_events_days": 30
+    },
+    "power_users": [],
+    "announcements": {
+      "enabled": true,
+      "max_pinned": 3,
+      "allow_comments": false,
+      "allow_reactions": true,
+      "whatsapp_integration": false
+    },
+    "notifications": {
+      "sms_enabled": false,
+      "push_enabled": false,
+      "email_enabled": false,
+      "whatsapp_enabled": false
+    }
   },
-  "pwa_manifest_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/DEZ/manifest.json"
+  "message": "Welcome to Dar-e-Zainab (as)"
 }
