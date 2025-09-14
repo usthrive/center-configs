@@ -1,0 +1,70 @@
+{
+  "_debug_version": "v4-support-meta",
+  "name": "Test Center from MCP",
+  "domain": "test-mcp.example.com",
+  "center_id": "9bd043d2-606e-43c7-b683-d5cb3fcaf111",
+  "key_takeaways": false,
+  "summary_video": false,
+  "full_video": false,
+  "detailed_notes": false,
+  "activity": false,
+  "video_options_enabled": false,
+  "logo_url": "",
+  "is_active": true,
+  "status": "active",
+  "google_sheet_id": "",
+  "youtube_channel_url": "",
+  "google_drive_folder_id": "",
+  "colors": {
+    "primary": "#1EAEDB",
+    "secondary": "#8E9196",
+    "background": "#FFFFFF",
+    "foreground": "#222222",
+    "accent": "#33C3F0"
+  },
+  "about_us_enabled": false,
+  "support_enabled": false,
+  "about_us_content": null,
+  "support_options": null,
+  "support_title": "Support Our Mission",
+  "support_description": "",
+  "support_intro_title": "",
+  "support_intro_text": "",
+  "other_donation_methods": null,
+  "community_portal_enabled": false,
+  "community_features": {
+    "qa": {
+      "enabled": true,
+      "allow_voting": true,
+      "allow_anonymous": true,
+      "require_moderation": true,
+      "allow_audio_answers": false,
+      "auto_approve_trusted_users": false
+    },
+    "calendar": {
+      "enabled": true,
+      "sync_ical": false,
+      "default_timezone": "America/New_York",
+      "allow_registration": true,
+      "sync_google_calendar": false,
+      "show_past_events_days": 30
+    },
+    "power_users": [],
+    "announcements": {
+      "enabled": true,
+      "max_pinned": 3,
+      "allow_comments": false,
+      "allow_reactions": true,
+      "whatsapp_integration": false
+    },
+    "notifications": {
+      "sms_enabled": false,
+      "push_enabled": false,
+      "email_enabled": false,
+      "whatsapp_enabled": false
+    }
+  },
+  "pwa_icons": null,
+  "pwa_manifest_url": null,
+  "message": "Welcome to Test Center from MCP"
+}
