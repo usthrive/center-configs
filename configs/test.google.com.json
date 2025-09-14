@@ -38,16 +38,33 @@
   "community_portal_enabled": true,
   "community_features": {
     "qa": {
-      "enabled": true,
+      "enabled": false,
       "allow_voting": true,
       "allow_anonymous": true,
       "require_moderation": true,
       "allow_audio_answers": false,
       "auto_approve_trusted_users": false
     },
-    "payment": null,
+    "payment": {
+      "zelle": {
+        "enabled": false,
+        "recipient": "",
+        "instructions": ""
+      },
+      "paypal": {
+        "link": "",
+        "enabled": false
+      },
+      "stripe": {
+        "enabled": false,
+        "test_mode": true,
+        "secret_key": "",
+        "publishable_key": "",
+        "subscription_link": ""
+      }
+    },
     "calendar": {
-      "enabled": true,
+      "enabled": false,
       "sync_ical": false,
       "default_timezone": "America/New_York",
       "allow_registration": true,
