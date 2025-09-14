@@ -2,16 +2,18 @@
   "_debug_version": "v4-support-meta",
   "name": "test center061425",
   "domain": "test.google.com",
+  "center_id": "92abea17-ba5d-4757-a00a-850248bcd197",
   "key_takeaways": true,
   "summary_video": true,
   "full_video": true,
   "detailed_notes": true,
   "activity": false,
+  "video_options_enabled": false,
   "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/test-1745592458520.jpg",
   "is_active": true,
   "status": "active",
   "google_sheet_id": "https://docs.google.com/spreadsheets/d/17a6XGmRZfzqiGMWvlJvvqHz-NEKUiDCJIEBQWCnUaFo/edit?gid=0#gid=0",
-  "youtube_channel_url": "https://www.youtube.com/@lightofreflection",
+  "youtube_channel_url": "",
   "google_drive_folder_id": "",
   "colors": {
     "primary": "#1EAEDB",
@@ -29,5 +31,50 @@
   "support_intro_title": "How You Can Help",
   "support_intro_text": "Your generous support enables us to continue our mission.",
   "other_donation_methods": null,
+  "community_portal_enabled": true,
+  "community_features": {
+    "qa": {
+      "enabled": true,
+      "allow_voting": true,
+      "allow_anonymous": true,
+      "require_moderation": true,
+      "allow_audio_answers": false,
+      "auto_approve_trusted_users": false
+    },
+    "calendar": {
+      "enabled": true,
+      "sync_ical": false,
+      "default_timezone": "America/New_York",
+      "allow_registration": true,
+      "sync_google_calendar": false,
+      "show_past_events_days": 30
+    },
+    "power_users": [],
+    "announcements": {
+      "enabled": true,
+      "max_pinned": 3,
+      "allow_comments": false,
+      "allow_reactions": true,
+      "whatsapp_integration": false
+    },
+    "notifications": {
+      "sms_enabled": false,
+      "push_enabled": false,
+      "email_enabled": false,
+      "whatsapp_enabled": false
+    }
+  },
+  "pwa_icons": {
+    "icon-16.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/icon-16.png",
+    "icon-32.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/icon-32.png",
+    "icon-120.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/icon-120.png",
+    "icon-152.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/icon-152.png",
+    "icon-167.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/icon-167.png",
+    "icon-192.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/icon-192.png",
+    "icon-512.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/icon-512.png",
+    "manifest.json": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/manifest.json",
+    "apple-touch-icon.png": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/pwa-icons/test/apple-touch-icon.png"
+  },
+  "pwa_manifest_url": null,
   "message": "Welcome to test center061425"
 }
