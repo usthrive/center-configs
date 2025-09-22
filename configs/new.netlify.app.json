@@ -15,6 +15,11 @@
   "google_sheet_id": "1L_8eKtDgomNh5m7jPppVaTOimXFA-2qloJKdqp3qKuM",
   "youtube_channel_url": "",
   "google_drive_folder_id": "1cVf1hDoyBypA82-bMnKkcu8M-XV9si_G",
+  "zip_code": "07050",
+  "city": "Orange",
+  "state": "New Jersey",
+  "country": "US",
+  "timezone": "America/New_York",
   "colors": {
     "primary": "#1EAEDB",
     "secondary": "#8E9196",
@@ -25,7 +30,11 @@
   "about_us_enabled": false,
   "support_enabled": false,
   "about_us_content": null,
-  "support_options": null,
+  "support_options": {
+    "support_zelle_enabled": false,
+    "support_paypal_enabled": false,
+    "support_stripe_enabled": false
+  },
   "support_title": "Support Our Mission",
   "support_description": "Help us spread the teachings of Ahlul Bayt AS",
   "support_intro_title": "How You Can Help",
@@ -41,24 +50,7 @@
       "allow_audio_answers": false,
       "auto_approve_trusted_users": false
     },
-    "payment": {
-      "zelle": {
-        "enabled": false,
-        "recipient": "",
-        "instructions": ""
-      },
-      "paypal": {
-        "link": "",
-        "enabled": false
-      },
-      "stripe": {
-        "enabled": false,
-        "test_mode": true,
-        "secret_key": "",
-        "publishable_key": "",
-        "subscription_link": ""
-      }
-    },
+    "payment": null,
     "calendar": {
       "enabled": true,
       "sync_ical": false,
