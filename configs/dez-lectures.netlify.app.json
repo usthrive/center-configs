@@ -93,10 +93,7 @@
     },
     "in_person": {
       "text": "In Person at Dar-e-Zainab We accept Checks, Cash, or Credit Card"
-    },
-    "support_zelle_enabled": false,
-    "support_paypal_enabled": false,
-    "support_stripe_enabled": false
+    }
   },
   "support_title": "Support Our Mission",
   "support_description": "Help us spread the teachings of Ahlul Bayt AS",
@@ -169,6 +166,7 @@
       "require_approval": true,
       "max_posts_per_day": 5,
       "sms_reminders_enabled": true,
+      "whatsapp_verification": true,
       "allow_anonymous_browse": true,
       "urgency_levels_enabled": true,
       "whatsapp_contact_enabled": true
