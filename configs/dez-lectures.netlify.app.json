@@ -93,7 +93,14 @@
     },
     "in_person": {
       "text": "In Person at Dar-e-Zainab We accept Checks, Cash, or Credit Card"
-    }
+    },
+    "support_zelle_note": "",
+    "support_paypal_link": "https://www.paypal.com/donate/?hosted_button_id=SJMBMEZBV5D7L",
+    "support_stripe_link": "https://buy.stripe.com/14k2bh9j435fga44gg",
+    "support_zelle_email": "zainab.imam.bargah@gmail.com",
+    "support_zelle_enabled": true,
+    "support_paypal_enabled": true,
+    "support_stripe_enabled": true
   },
   "support_title": "Support Our Mission",
   "support_description": "Help us spread the teachings of Ahlul Bayt AS",
@@ -121,20 +128,20 @@
     },
     "payment": {
       "zelle": {
-        "enabled": false,
-        "recipient": "",
+        "enabled": true,
+        "recipient": "zainab.imam.bargah@gmail.com",
         "instructions": ""
       },
       "paypal": {
-        "link": "",
-        "enabled": false
+        "link": "https://www.paypal.com/donate/?hosted_button_id=SJMBMEZBV5D7L",
+        "enabled": true
       },
       "stripe": {
-        "enabled": false,
+        "enabled": true,
         "test_mode": true,
         "secret_key": "",
         "publishable_key": "",
-        "subscription_link": ""
+        "subscription_link": "https://buy.stripe.com/14k2bh9j435fga44gg"
       }
     },
     "calendar": {
