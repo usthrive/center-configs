@@ -9,10 +9,14 @@
   "detailed_notes": true,
   "activity": false,
   "video_options_enabled": true,
+  "lecture_clips_enabled": false,
+  "viral_clips_enabled": true,
+  "infographics_enabled": true,
   "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/DEZ-1752921516966.png",
   "is_active": true,
   "status": "active",
   "google_sheet_id": "1tWnlNrmRN3Jfi-6fdYBmT799U9axxi0UuUzlPkXZ3Bc",
+  "publications_sheet_id": "1WDZnmKnqSu_Yam6r0VL0nIan8n759ZFbL-ukxdn0EoU",
   "youtube_channel_url": "https://www.youtube.com/@DareZainabAS",
   "google_drive_folder_id": "1Gx7SRIecwxysJUusD10LE8vfWEqZhmcB",
   "colors": {
@@ -53,7 +57,7 @@
         "show_divider": false
       }
     ],
-    "developer_callout": "---\n    **Developed By:** This tool is enabled by Penta AI Solutions and Penta University, and was first deployed at the regional center. We are thankful for the opportunity to enable the furtherance of the mission of the household of the Prophet and to expand the message to all centers. The goal of Penta AI Solutions and Penta University is to bring AI capabilities by creating tools that can be utilized by the broader humanity and have them align with the teachings of holy Prophet Mohammed (SAW) and his holy household. Please consider supporting these organizations."
+    "developer_callout": "---\n    **Developed By:** This tool is enabled by Pent-AI-Efficient Solutions and Penta University, and was first deployed at the regional center. We are thankful for the opportunity to enable the furtherance of the mission of the household of the Prophet and to expand the message to all centers. The goal of Pent-AI-Efficient Solutions and Penta University is to bring AI capabilities by creating tools that can be utilized by the broader humanity and have them align with the teachings of holy Prophet Mohammed (SAW) and his holy household. Please consider supporting these organizations."
   },
   "support_options": {
     "card": {
