@@ -21,8 +21,8 @@
   "colors": {
     "primary": "#1A5632",
     "secondary": "#D4A843",
-    "background": "#2D2D2D",
-    "foreground": "#FAFAF8",
+    "background": "#FAFAF8",
+    "foreground": "#2D2D2D",
     "accent": "#76a076"
   },
   "about_us_enabled": true,
