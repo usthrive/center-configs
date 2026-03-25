@@ -27,6 +27,8 @@
   },
   "about_us_enabled": true,
   "support_enabled": false,
+  "payment_link_url": "https://jaferia.org/online-payments/",
+  "whatsapp_enabled": false,
   "about_us_content": {
     "intro": "Idara-e-Jaferia is a non-profit, independent organization established to serve the religious and spiritual needs of the Muslim community in the Maryland, Virginia, Washington D.C. area and surrounding regions. Founded by a dedicated group of Muslims who began working on this vision in 1980, we have grown to become a cornerstone of faith, education, and community service in the region.",
     "vision": "To be a leading Islamic center that nurtures spiritual growth, fosters community unity, and serves as a beacon of Islamic knowledge and values for current and future generations in the greater Washington D.C. metropolitan area.",
