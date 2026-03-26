@@ -12,6 +12,8 @@
   "lecture_clips_enabled": true,
   "viral_clips_enabled": true,
   "infographics_enabled": true,
+  "share_clips_enabled": true,
+  "share_infographics_enabled": true,
   "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/IJ-1772202308187.png",
   "is_active": true,
   "status": "active",
