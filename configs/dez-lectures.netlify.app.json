@@ -1,5 +1,5 @@
 {
-  "_debug_version": "v5-auth-error-handling",
+  "_debug_version": "v7-callout-with-emails",
   "name": "Dar-e-Zainab (as)",
   "domain": "dez-lectures.netlify.app",
   "center_id": "8f325937-a65c-469e-9931-4be380176e62",
@@ -9,11 +9,9 @@
   "detailed_notes": true,
   "activity": false,
   "video_options_enabled": true,
-  "lecture_clips_enabled": false,
+  "lecture_clips_enabled": true,
   "viral_clips_enabled": true,
   "infographics_enabled": true,
-  "share_clips_enabled": true,
-  "share_infographics_enabled": true,
   "logo_url": "https://dlmcxxzohervnbixauhs.supabase.co/storage/v1/object/public/center-logos/DEZ-1752921516966.png",
   "is_active": true,
   "status": "active",
@@ -94,10 +92,7 @@
     },
     "in_person": {
       "text": "In Person at Dar-e-Zainab We accept Checks, Cash, or Credit Card"
-    },
-    "support_zelle_enabled": false,
-    "support_paypal_enabled": false,
-    "support_stripe_enabled": false
+    }
   },
   "support_title": "Support Our Mission",
   "support_description": "Help us spread the teachings of Ahlul Bayt AS",
